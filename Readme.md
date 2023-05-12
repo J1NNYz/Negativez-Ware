@@ -16,10 +16,10 @@ Thank You For Library : [Linoria](https://github.com/violin-suzutsuki/LinoriaLib
 - Dependency Boxes, Allowing You To Easily Hide/Show UI Elements Depending On The State Of Other UI Elements (I Will Update)
 
 ## Main Contributors
-- Inori: Main developer.
-- Wally: Cleaning up verbose code, extending library functionality.
-- Stefanuk: Extending library functionality.
-- matas3535: Creator of Splix.
+- Inori     : Main Developer.
+- Wally     : Cleaning Up Verbose Code & Extending Library Functionality.
+- Stefanuk  : Extending Library Functionality.
+- matas3535 : Creator Of Splix.
 
 ## More Contributors
 - Negative : Modified
