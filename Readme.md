@@ -24,4 +24,4 @@ Thank You For Library : [Linoria](https://github.com/violin-suzutsuki/LinoriaLib
 ## More Contributors
 - Negative : Modified
 
-<img src="[https://cdn.discordapp.com/attachments/1009079693682692166/1105111375723905054/IMG_0371.png]"/>
+<img src="https://cdn.discordapp.com/attachments/1009079693682692166/1105111375723905054/IMG_0371.png"/>
