@@ -1,7 +1,26 @@
-Library Mdified By : [Negativez](https://discord.com/users/1106467316138524713)
+# Negativez Library
+A UI library Inspired By Splix & BBot & More But I Modified Linoria Library.
 
-Thank You For Library : [Linoria]([https://lindseyhost.com](https://github.com/violin-suzutsuki/LinoriaLib/tree/main))
+Thank You For Library : [Linoria]([Example.lua](https://github.com/violin-suzutsuki/LinoriaLib))
 
-This is Modified UI Library By Negativez
+###### Example Script: 
+* [Example](Example.lua)
 
-![UI](https://cdn.discordapp.com/attachments/1106468186687275030/1106551594016845864/Porn_Meow.png)
+###### Interface Addons:
+* [Theme Manager](addons/ThemeManager.lua)&nbsp;&nbsp;|&nbsp;&nbsp;[Save Manager](addons/SaveManager.lua) 
+
+## Features
+- Tabs,Section,Tab Boxes
+- Almost Any UI Element You Would Ever Need (Toggle & Sliders & Dropdown & etc)
+- Interface Automatically Becomes Scrollable Whenever There Are Too Many UI Elements
+- Dependency Boxes, Allowing You To Easily Hide/Show UI Elements Depending On The State Of Other UI Elements (Update)
+
+## Interface Preview
+<img src="https://i.imgur.com/qs0Hqc6.png" />
+
+## Contributors
+- Inori: Main developer.
+- Wally: Cleaning up verbose code, extending library functionality.
+- Stefanuk: Extending library functionality.
+- matas3535: Creator of Splix.
+- Negative : Modified
