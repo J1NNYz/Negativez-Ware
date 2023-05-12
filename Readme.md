@@ -13,7 +13,7 @@ Thank You For Library : [Linoria](https://github.com/violin-suzutsuki/LinoriaLib
 - Tabs,Section,Tab Boxes
 - Almost Any UI Element You Would Ever Need (Toggle & Sliders & Dropdown & etc)
 - Interface Automatically Becomes Scrollable Whenever There Are Too Many UI Elements
-- Dependency Boxes, Allowing You To Easily Hide/Show UI Elements Depending On The State Of Other UI Elements (Update)
+- Dependency Boxes, Allowing You To Easily Hide/Show UI Elements Depending On The State Of Other UI Elements (I Will Update)
 
 ## Main Contributors
 - Inori: Main developer.
