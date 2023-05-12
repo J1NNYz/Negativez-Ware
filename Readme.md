@@ -15,9 +15,6 @@ Thank You For Library : [Linoria](https://github.com/violin-suzutsuki/LinoriaLib
 - Interface Automatically Becomes Scrollable Whenever There Are Too Many UI Elements
 - Dependency Boxes, Allowing You To Easily Hide/Show UI Elements Depending On The State Of Other UI Elements (Update)
 
-## Interface Preview
-<img src="https://i.imgur.com/qs0Hqc6.png" />
-
 ## Main Contributors
 - Inori: Main developer.
 - Wally: Cleaning up verbose code, extending library functionality.
@@ -26,3 +23,5 @@ Thank You For Library : [Linoria](https://github.com/violin-suzutsuki/LinoriaLib
 
 ## More Contributors
 - Negative : Modified
+
+<img src="[https://i.imgur.com/qs0Hqc6.png](https://cdn.discordapp.com/attachments/1009079693682692166/1105111375723905054/IMG_0371.png)" />
